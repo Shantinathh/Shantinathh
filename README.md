@@ -1,46 +1,135 @@
-
 [![MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=2400&height=767&name=Cybersecurity%20Graphic.gif)](https://github.com/Shantinathh)
 
 <h1 align="center">Hi 👋, I'm Shantinath Patil</h1>
-<h3 align="center">A passionate full stack developer and Cybersecurity from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantinathh&label=Profile%20views&color=0e75b6&style=flat" alt="shantinathh" /> </p>
+<h3 align="center">
+🚀 AI & ML Engineer | 🤖 Generative AI | 🧠 NLP Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Cybersecurity,Web developement**
-
-- 💬 Ask me about **Cybersecurity,Frontend Developement**
-
-- 📫 How to reach me **patilsammmed188@gmail.com**
-
-- ⚡ Fun fact **My first line of code was a Hello World!...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shantinath patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantinath patil" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI%20Engineer;GenAI%20Builder;ML%20Enthusiast;Problem%20Solver&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantinathh&show_icons=true&locale=en&layout=compact" alt="shantinathh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantinathh&show_icons=true&locale=en" alt="shantinathh" /></p>
+### 🧠 About Me
+- 🎓 AI & ML Engineering Student (2023–2027)
+- 🔥 Built ML systems with **R² = 0.98 accuracy**
+- 🤖 Specialized in **Machine Learning, NLP & Generative AI**
+- ⚡ Focused on building **real-world intelligent systems**
+- 🌱 Currently exploring **Advanced GenAI & LLM Systems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantinathh&" alt="shantinathh" /></p>
-## Hi there 👋
+---
 
-<!--
-**Shantinathh/Shantinathh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Achievements
+- 🚀 Developed production-level ML systems with high accuracy  
+- 🧠 Built LLM-powered applications using **Flask + APIs**  
+- 📊 Strong foundation in **DSA + Optimization Algorithms**  
+- 🔥 Hands-on experience in **real-world internships**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+
+**🧠 NLP Intern (Chatbot Development)** – CCC Innovation Incubation Center  
+- Built intelligent chatbot reducing manual effort  
+- Improved response accuracy via NLP pipelines  
+- Designed human-like conversational flows  
+
+**🐍 Python Developer Intern** – Codec Technologies India  
+- Built scalable data pipelines  
+- Optimized algorithms → faster execution  
+- Extracted insights using Pandas & NumPy  
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **GenAI Resume Analyzer (LLM + Flask)**  
+→ LLM-powered system for resume feedback & skill gap detection  
+
+🔹 **Intelligent Route Optimization System**  
+→ ML + Dijkstra hybrid model (**R² = 0.98**)  
+
+🔹 **Smart Study Spot Recommender**  
+→ Clustering-based personalized recommendation system  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🤖 AI/ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+#### ⚙️ Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 🧠 Core Concepts
+- Machine Learning  
+- NLP & Generative AI  
+- Ensemble Learning  
+- Deep Learning Basics  
+- DSA (BFS, DFS, A*, Dijkstra)  
+
+---
+
+### 🏅 Certifications
+- AI & ML – Apna College & CampusX  
+- Data Analysis with Python – IBM  
+- Google AI Agents Course (Kaggle)  
+- NLP Internship – BCE  
+- ISRO Cybersecurity Program  
+- Google Generative AI  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/shantinath-patil-8a7b842b3/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Shantinathh" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shantinathh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shantinathh&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantinathh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+### ⚡ Fun Fact
+> My ML model predicted traffic with ~98% accuracy 😎
